@@ -1,7 +1,0 @@
-{
-  "name": "example-capacitor-http",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
